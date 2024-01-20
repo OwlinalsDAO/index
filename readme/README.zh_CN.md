@@ -7,14 +7,14 @@ owlinals 的初步索引工作是由社区驱动并由Alex完成的，我们爬�
 
 你可以在这个 [页面](https://github.com/OwlinalsDAO/index/blob/main/inscriptions.json) 搜索 id 或者铭文编号 number 查看你的 Owlinals 是否在 9717 个中。
 
-你可以下载数据 [output.csv](https://github.com/OwlinalsDAO/index/blob/main/output.csv) 来查看结果. (每一页爬取的原始数据在 outputs.zip 中)
+你也可以下载数据 [output.csv](https://github.com/OwlinalsDAO/index/blob/main/output.csv) 来查看结果。 (每一页爬取的原始数据在 outputs.zip 中)
 
 当然，你还可以自己动手爬取，所有代码已开源
 
 ## 使用
 
 ```
-# 安装包
+# 安装包文件
 pip install -r requirements.txt
 
 # 收集数据
