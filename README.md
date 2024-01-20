@@ -29,8 +29,14 @@ python3 clean.py
 
 - URL：https://geniidata.com/user/daveed/owlinals (This is the data created by the founder and he wants to crawl, he said in discord.)
 
+  <img width="819" alt="image" src="https://github.com/OwlinalsDAO/index/assets/157193953/1bc39153-22da-4c13-80e0-2f969c5063b1">
+
+
 - Interface：https://www.geniidata.com/api/dashboard/chart/public/data?chartId=276771&pageSize=100&page={page}&searchKey=&searchValue=
 
 ## Contribute me a Coffee
 
 ERC20: 0xEfCa8f001dBe23B872e7ca1584421d53b915ae29, Thanks!
+
+<img width="312" alt="image" src="https://github.com/OwlinalsDAO/index/assets/157193953/39f034c4-c656-4883-bc8e-de68ad72284d">
+
