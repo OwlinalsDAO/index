@@ -20,7 +20,7 @@ pip install -r requirements.txt
 # 收集数据
 python3 main.py
 
-# 情绪数据
+# 清洗数据
 python3 clean.py
 
 # 最后请你打开表格按照区块高度升序排序
