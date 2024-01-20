@@ -30,7 +30,7 @@ python3 clean.py
 
 数据来自创始人在 Discord Announcement 中他提供的所有统计数据（注意这是乱序的，Magic Eden上也有不合法的，创始人之前是一个个手动索引，并没有先排序后索引）
 
-- 链接：https://geniidata.com/user/daveed/owlinals (This is the data created by the founder and he wants to crawl, he said in discord.)
+- 链接：https://geniidata.com/user/daveed/owlinals
 
   <img width="819" alt="image" src="https://github.com/OwlinalsDAO/index/assets/157193953/1bc39153-22da-4c13-80e0-2f969c5063b1">
 
