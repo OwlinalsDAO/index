@@ -6,7 +6,7 @@
 
 ## Introduction
 
-The preliminary indexing work of owlinals was driven by the community and completed by Alex. We crawled 12943 pieces of data, cleaned the data, sorted it according to block height, and completed the preliminary task. The current results show that 9717 Owlinals were confirmed before the Bitcoin block height was `826217` (height<=826217). These are all valid, but the 9718th to 10067th Owlinals are all in the 826218 block, which is redundant. The legality of the 67 NFTs cannot be guaranteed because it is related to the official page server data of Owlinals. The community does not have any data, so it cannot be decided for the time being.
+The preliminary indexing work of owlinals was driven by the community and completed by Alex. We crawled 12943 pieces of data, cleaned the data, sorted it according to block height, and completed the preliminary task. The current results show that 9717 Owlinals were confirmed before the Bitcoin block height was `826217` (height<=826217). These are all valid, but the 9718th to 10067th Owlinals are all in the 826218 block, which may be redundant.Currently, the founder has indexed 10,067 Owlinals, but the community has currently indexed 10,000 Owlinals based on block height and inscription number, and the remaining 67 have not yet been indexed.
 
 You can check your owlinals through this [page](https://github.com/OwlinalsDAO/index/blob/main/inscriptions.json) by search `id` or `number`.
 
